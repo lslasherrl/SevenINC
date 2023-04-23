@@ -1,7 +1,10 @@
-Primeiramente obrigado pela oportunidade, o projeto contem 2 pastas backend/frontend devem ser colocadas em uma unica pasta e ser iniciada. Banco de dados feito com MYSQL
-Feito como pedido pelo Documento enviado para mim.
-Codigo do MySQL:
+Primeiramente obrigado pela oportunidade, o projeto contem 2 pastas backend/frontend devem ser colocadas em uma unica pasta e ser iniciada. 
+Banco de dados feito com MYSQL.
+Feito como pedido pelo Documento enviado para mim, ferramentas e tecnologias utilizadas:
+-JavaScript, React, NodeJS e MySQL
+-Formik e Material usadas para fazer o front.
 
+Codigo do MySQL:
 create database SevenINC;
 use SevenINC;
 CREATE TABLE Funcionarios (
